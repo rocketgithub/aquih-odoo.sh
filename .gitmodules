@@ -1,0 +1,4 @@
+[submodule "gface_ecofacturas"]
+	path = gface_ecofacturas
+	url = git@github.com:rocketgithub/gface_ecofacturas.git
+	branch = 10.0
