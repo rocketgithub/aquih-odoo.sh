@@ -19,3 +19,6 @@
 [submodule "fel_gt"]
 	path = fel_gt
 	url = git@github.com:rocketgithub/fel_gt.git
+[submodule "payment_visanet"]
+	path = payment_visanet
+	url = git@github.com:rocketgithub/payment_visanet.git
